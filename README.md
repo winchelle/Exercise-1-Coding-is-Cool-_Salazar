@@ -1,4 +1,4 @@
-This code is about adding the three variable in to a sentence. 
+This code is about adding the three variable to make a sentence. 
 
 To declare a word, you have to make a variable before adding the data.
 word1, word2, word3 -> are the variables
